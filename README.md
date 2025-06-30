@@ -19,13 +19,15 @@ A colorful, powerful Python script to install Metasploit on Termux with a hackin
 
 ```bash
 pkg install wget curl git python -y
-pip install requests tqdm psutil'''
+pip install requests tqdm psutil```
+
 
 ## Usage
+
 ```bash
 wget https://raw.githubusercontent.com/xploitpoison/metasploit-termux-installer/main/metasploit_installer_v2.0.py
 python metasploit_installer_v2.0.py
 # Verbose mode:
 python metasploit_installer_v2.0.py --verbose
 # Silent mode:
-python metasploit_installer_v2.0.py --silent'''
+python metasploit_installer_v2.0.py --silent```
