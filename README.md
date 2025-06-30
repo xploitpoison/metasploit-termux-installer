@@ -13,3 +13,6 @@ A colorful, powerful Python script to install Metasploit on Termux with a hackin
 ```bash
 pkg install wget curl git python -y
 pip install requests tqdm psutil
+
+Screenshot
+1.jpg
