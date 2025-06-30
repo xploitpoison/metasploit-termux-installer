@@ -215,7 +215,7 @@ def main():
     run_command("msfconsole -v", args.verbose)
     
     print(f"{GREEN}[+] Metasploit installed successfully! Run 'msfconsole' to start.{RESET}")
-    print(f"{MAGENTA}Join t.me/xploitpoison | Star github.com/<your-username>/metasploit-termux-installer{RESET}")
+    print(f"{MAGENTA}Join t.me/xploitpoison | Star https://github.com/xploitpoison/metasploit-termux-installer{RESET}")
 
 if __name__ == "__main__":
     try:
