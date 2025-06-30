@@ -2,7 +2,9 @@
 A colorful, powerful Python script to install Metasploit on Termux with a hacking-themed interface.
 
 ## Screenshot
-![Metasploit Installer Screenshot](screenshot.png)
+![Metasploit Installer Screenshot](1.jpg)
+
+![Metasploit Installer Screenshot](2.jpg)
 
 ## Features
 - Vibrant hacker theme with green, red, cyan, and magenta colors.
